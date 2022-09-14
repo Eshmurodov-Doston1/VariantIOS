@@ -1,0 +1,54 @@
+<svg width="169" height="23" viewBox="0 0 169 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_401_474)">
+<path d="M139.467 0V22.7174" stroke="white" stroke-width="4.54348"/>
+<path d="M121.293 0V22.7174" stroke="white" stroke-width="4.54348"/>
+<path d="M124.701 -1.13586L136.06 23.8533" stroke="white" stroke-width="4.54348"/>
+</g>
+<g clip-path="url(#clip1_401_474)">
+<path d="M112.206 0V22.7174" stroke="white" stroke-width="4.54348"/>
+<path d="M86.0815 23.8533L109.935 0" stroke="white" stroke-width="4.54348"/>
+</g>
+<g clip-path="url(#clip2_401_474)">
+<path d="M44.0543 0V22.7174" stroke="white" stroke-width="4.54348"/>
+<path d="M17.9293 23.8533L41.7826 0" stroke="white" stroke-width="4.54348"/>
+</g>
+<g clip-path="url(#clip3_401_474)">
+<path d="M3.1629 22.7174V1.56164e-05" stroke="white" stroke-width="4.54348"/>
+<path d="M29.288 -1.13586L5.43469 22.7174" stroke="white" stroke-width="4.54348"/>
+</g>
+<g clip-path="url(#clip4_401_474)">
+<path d="M80.402 0V22.7174" stroke="white" stroke-width="4.54348"/>
+</g>
+<g clip-path="url(#clip5_401_474)">
+<path d="M55.4129 2.27179H64.4999C68.2638 2.27179 71.3151 5.32306 71.3151 9.087V9.087C71.3151 12.8509 68.2638 15.9022 64.4999 15.9022H55.4129" stroke="white" stroke-width="4.54348"/>
+<path d="M53.1412 0V22.7174" stroke="white" stroke-width="4.54348"/>
+<path d="M66.7716 15.9022L74.7227 23.8533" stroke="white" stroke-width="4.54348"/>
+</g>
+<g clip-path="url(#clip6_401_474)">
+<path d="M157.641 0V22.7174" stroke="white" stroke-width="4.54348"/>
+<path d="M146.283 2.27173L169 2.27173" stroke="white" stroke-width="4.54348"/>
+</g>
+<defs>
+<clipPath id="clip0_401_474">
+<rect width="22.7174" height="22.7174" fill="white" transform="translate(119.022)"/>
+</clipPath>
+<clipPath id="clip1_401_474">
+<rect width="27.2609" height="22.7174" fill="white" transform="translate(87.2173)"/>
+</clipPath>
+<clipPath id="clip2_401_474">
+<rect width="27.2609" height="22.7174" fill="white" transform="translate(19.0652)"/>
+</clipPath>
+<clipPath id="clip3_401_474">
+<rect width="27.2609" height="22.7174" fill="white" transform="translate(28.1521 22.7174) rotate(-180)"/>
+</clipPath>
+<clipPath id="clip4_401_474">
+<rect width="4.54348" height="22.7174" fill="white" transform="translate(78.1304)"/>
+</clipPath>
+<clipPath id="clip5_401_474">
+<rect width="22.7174" height="22.7174" fill="white" transform="translate(50.8695)"/>
+</clipPath>
+<clipPath id="clip6_401_474">
+<rect width="22.7174" height="22.7174" fill="white" transform="translate(146.283)"/>
+</clipPath>
+</defs>
+</svg>
